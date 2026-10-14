@@ -1,0 +1,10 @@
+/target
+/immagine
+# la chiave privata che firma gli aggiornamenti NON deve mai finire su GitHub
+*.pem
+# file di prova e log nella cartella principale
+/*.log
+/*.png
+/*.txt
+/*.ps1
+/iso_check*.py

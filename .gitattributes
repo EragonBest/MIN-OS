@@ -1,0 +1,6 @@
+# su Windows git non deve trasformare gli a-capo (lo script di prova gira su Linux)
+* text=auto eol=lf
+*.bin binary
+*.img binary
+*.EFI binary
+*.png binary
